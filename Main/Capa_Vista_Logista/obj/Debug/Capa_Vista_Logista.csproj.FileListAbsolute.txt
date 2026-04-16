@@ -1,0 +1,145 @@
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.csproj.AssemblyReference.cache
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.Frm_LOGIN.resources
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.Frm_MDI.resources
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.Properties.Resources.resources
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.csproj.GenerateResource.cache
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.csproj.CoreCompileInputs.cache
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Logista.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Logista.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Seguridad.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Bodegaa.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Empresa_Transporte.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_LineaProd.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_vista_Mantenimiento_Proveedores.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Marca.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Mov_Inv.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Reporteador.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Seguridad.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Ventas.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.Shared.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Mantenimiento_tipo_MOV_inv.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\ShockwaveFlashObjects.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Seguridad.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Navegador.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Navegador.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Reporteador.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\stdole.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Componente_Consultas.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Navegador.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Reporteador.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Componente_Consultas.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Componente_Consultas_Simples.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Componente_Consultas.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Componente_Consultas_Simples.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Componente_Consultas_Simples.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Seguridad.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Bodegaa.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Empresa_Transporte.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_LineaProd.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_vista_Mantenimiento_Proveedores.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Marca.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Mov_Inv.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Reporteador.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Seguridad.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Ventas.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Mantenimiento_cuentas_por_pagar.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Mantenimiento_tipo_MOV_inv.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Seguridad.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Navegador.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Navegador.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Reporteador.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Componente_Consultas.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Navegador.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Reporteador.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Componente_Consultas.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Vista_Componente_Consultas_Simples.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Componente_Consultas.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Componente_Consultas_Simples.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Componente_Consultas_Simples.pdb
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\obj\Debug\Capa_Vis.7408545F.Up2Date
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.dll
+C:\is2k26pf\codigo\empresarial\Equipo 2\MDI_Logistica_Grupo2\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.csproj.AssemblyReference.cache
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.Frm_LOGIN.resources
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.Frm_MDI.resources
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.Properties.Resources.resources
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.csproj.GenerateResource.cache
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.csproj.CoreCompileInputs.cache
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\obj\Debug\Capa_Vista_Logista.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_Logista.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_Logista.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.Shared.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Mantenimineto_B.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\ShockwaveFlashObjects.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Seguridad.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_Navegador.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Navegador.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Reporteador.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\stdole.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_Componente_Consultas.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Navegador.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Reporteador.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Componente_Consultas.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_Componente_Consultas_Simples.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Componente_Consultas.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Componente_Consultas_Simples.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Componente_Consultas_Simples.dll
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Seguridad.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_Bodegaa.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_Empresa_Transporte.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_LineaProd.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_vista_Mantenimiento_Proveedores.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_Marca.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_Mov_Inv.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_Reporteador.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_Seguridad.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_Ventas.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Mantenimiento_cuentas_por_pagar.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Mantenimiento_tipo_MOV_inv.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Mantenimineto_B.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Seguridad.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_Navegador.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Navegador.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Reporteador.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_Componente_Consultas.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Navegador.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Reporteador.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Componente_Consultas.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Vista_Componente_Consultas_Simples.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Componente_Consultas.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Controlador_Componente_Consultas_Simples.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\bin\Debug\Capa_Modelo_Componente_Consultas_Simples.pdb
+C:\PrototipoIS2P2026\Main\Capa_Vista_Logista\obj\Debug\Capa_Vis.7408545F.Up2Date
